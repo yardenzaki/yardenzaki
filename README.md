@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yardenzaki
-- 👀 I’m interested in Data Science, AI and Data Visualization
+- 👀 I’m interested in Data Science, AI Computer vision and Data Visualization
 - 🌱 I’m currently learning TensorFlow , Pandas 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
